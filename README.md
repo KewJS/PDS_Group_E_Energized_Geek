@@ -22,7 +22,7 @@ As of the launch of this competition, vaccines for the COVID-19 virus are still 
 
 A vaccine for the H1N1 flu virus became publicly available in October 2009. In late 2009 and early 2010, the United States conducted the National 2009 H1N1 Flu Survey. This phone survey asked respondents whether they had received the H1N1 and seasonal flu vaccines, in conjunction with questions about themselves. These additional questions covered their social, economic, and demographic background, opinions on risks of illness and vaccine effectiveness, and behaviors towards mitigating transmission. A better understanding of how these characteristics are associated with personal vaccination patterns can provide guidance for future public health efforts.
 
-#### About the data
+#### About the Data
 ---
 The data for this competition comes from the National 2009 H1N1 Flu Survey (NHFS): https://www.drivendata.org/competitions/66/flu-shot-learning/page/213/
 
@@ -31,3 +31,7 @@ The National 2009 H1N1 Flu Survey (NHFS) was sponsored by the National Center fo
 The target population for the NHFS was all persons 6 months or older living in the United States at the time of the interview. Data from the NHFS were used to produce timely estimates of vaccination coverage rates for both the monovalent pH1N1 and trivalent seasonal influenza vaccines.
 
 The NHFS was conducted between October 2009 and June 2010. It was one-time survey designed specifically to monitor vaccination during the 2009-2010 flu season in response to the 2009 H1N1 pandemic. The CDC has other ongoing programs for annual phone surveys that continue to monitor seasonal flu vaccination.
+
+#### Final Output
+---
+Using <code>R Shiny</code>, a visualization dashboard wil be created, the whole project are done using R language.
